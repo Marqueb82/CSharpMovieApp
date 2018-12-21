@@ -1,0 +1,7 @@
+C:\Users\Marque\C#Projects\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\Marque\C#Projects\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\Marque\C#Projects\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\Marque\C#Projects\MovieApp\MovieApp\obj\Debug\MovieApp.csprojAssemblyReference.cache
+C:\Users\Marque\C#Projects\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Marque\C#Projects\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\Marque\C#Projects\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
