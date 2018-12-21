@@ -13,7 +13,7 @@ namespace MovieApp
 
         public Movie(){}
 
-        public Movie(string title, String category)
+        public Movie(string title, string category)
         {
             Title = title;
             Category = category;
